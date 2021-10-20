@@ -1,4 +1,10 @@
 #code By Bandhitawkunthi
+import os
+import sys
+os.system("clear")
+
+
+print("\033[93m")
 while True:
 		print("===================")
 		print("===================")
